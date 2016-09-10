@@ -2,6 +2,7 @@
 layout: principal
 title: Movimiento Lienzo Breve
 ---
+<div class= "container">
 <p class ="flow-text">
 Lienzo Breve, compuesto por poetas comayagüenses, nace como una voz de protesta a nuestro entorno en el que no tiene cabida la cultura, para crear espacios artísticos y hacer trascender la poesía, la música y cualquier otra manifestación del arte. 
 
@@ -21,4 +22,5 @@ Gabriela Chávez
 Jorge Madrid
 Jared Cerrato
 
-</p>
+</p>@
+</div>
