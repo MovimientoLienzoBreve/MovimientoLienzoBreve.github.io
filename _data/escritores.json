@@ -1,0 +1,16 @@
+{
+    "escritores": [
+        {
+            "nommbre": "Fabio Castillo",
+            "nombreCorto": "Fabio",
+            "photo": "",
+            "citafavorita": ""
+        },
+        {
+            "nommbre": "Jared Serrato",
+            "nombreCorto": "Jared",
+            "photo": "",
+            "citafavorita": ""
+        }
+    ]
+}

@@ -10,14 +10,11 @@
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
  
- body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-    
-  }
 
-  main {
-    flex: 1 0 auto;
-    color: grey darken-1
-  }
+.left-logo{
+  margin-left: 10px;
+}
+
+.contact-text{
+      vertical-align: super;
+}
