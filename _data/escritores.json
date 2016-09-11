@@ -3,36 +3,42 @@
         "nombre": "Fabio Castillo",
         "nombreCorto": "Fabio",
         "photo": "",
-        "citafavorita": "Una cita para mostrar en la pagina principal"
+        "citafavorita": "Una cita para mostrar en la pagina principal",
+        "fb":""
     },
     {
-        "nombre": "Jared Serrato",
+        "nombre": "Jared Cerrato",
         "nombreCorto": "Jared",
         "photo": "",
-        "citafavorita": "Una cita para mostrar en la pagina principal"
+        "citafavorita": "Una cita para mostrar en la pagina principal",
+        "fb":""
     },
     {
-        "nombre": "Gabriela Chavez",
+        "nombre": "Gabriela Chávez",
         "nombreCorto": "Gabriela",
         "photo": "",
-        "citafavorita": "Una cita para mostrar en la pagina principal"
+        "citafavorita": "Una cita para mostrar en la pagina principal",
+        "fb":""
     },
     {
         "nombre": "Jorge Madrid",
         "nombreCorto": "Jorge",
         "photo": "",
-        "citafavorita": "Una cita para mostrar en la pagina principal"
+        "citafavorita": "Una cita para mostrar en la pagina principal",
+        "fb":""
     },
     {
         "nombre": "Manuel Castañeda",
         "nombreCorto": "Manuel",
         "photo": "",
-        "citafavorita": "Una cita para mostrar en la pagina principal"
+        "citafavorita": "Una cita para mostrar en la pagina principal",
+        "fb":""
     },
     {
-        "nombre": "Javier Gamez",
+        "nombre": "Javier Gámez",
         "nombreCorto": "Javier",
         "photo": "",
-        "citafavorita": "Una cita para mostrar en la pagina principal"
+        "citafavorita": "Una cita para mostrar en la pagina principal",
+        "fb" : "https://www.facebook.com/Javier-G%C3%A1mez-SuazoPoes%C3%ADa-176919912367907/?fref=ts"
     }
 ]
