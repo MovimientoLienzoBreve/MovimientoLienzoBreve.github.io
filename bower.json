@@ -1,0 +1,17 @@
+{
+  "name": "movimientolienzobreve",
+  "homepage": "https://github.com/MovimientoLienzoBreve/MovimientoLienzoBreve.github.io",
+  "authors": [
+    "Saul Mayorquin <saulmadi@gmail.com>"
+  ],
+  "description": "pagina del movimiento lienzo breve",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
