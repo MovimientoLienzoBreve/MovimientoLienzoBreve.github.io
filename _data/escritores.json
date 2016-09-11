@@ -1,16 +1,38 @@
-{
-    "escritores": [
-        {
-            "nommbre": "Fabio Castillo",
-            "nombreCorto": "Fabio",
-            "photo": "",
-            "citafavorita": ""
-        },
-        {
-            "nommbre": "Jared Serrato",
-            "nombreCorto": "Jared",
-            "photo": "",
-            "citafavorita": ""
-        }
-    ]
-}
+[
+    {
+        "nombre": "Fabio Castillo",
+        "nombreCorto": "Fabio",
+        "photo": "",
+        "citafavorita": "Una cita para mostrar en la pagina principal"
+    },
+    {
+        "nombre": "Jared Serrato",
+        "nombreCorto": "Jared",
+        "photo": "",
+        "citafavorita": "Una cita para mostrar en la pagina principal"
+    },
+    {
+        "nombre": "Gabriela Chavez",
+        "nombreCorto": "Gabriela",
+        "photo": "",
+        "citafavorita": "Una cita para mostrar en la pagina principal"
+    },
+    {
+        "nombre": "Jorge Madrid",
+        "nombreCorto": "Jorge",
+        "photo": "",
+        "citafavorita": "Una cita para mostrar en la pagina principal"
+    },
+    {
+        "nombre": "Manuel Castañeda",
+        "nombreCorto": "Manuel",
+        "photo": "",
+        "citafavorita": "Una cita para mostrar en la pagina principal"
+    },
+    {
+        "nombre": "Javier Gamez",
+        "nombreCorto": "Javier",
+        "photo": "",
+        "citafavorita": "Una cita para mostrar en la pagina principal"
+    }
+]
