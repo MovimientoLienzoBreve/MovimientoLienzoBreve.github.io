@@ -21,8 +21,8 @@
         "fb":""
     },
     {
-        "nombre": "Jorge Madrid",
-        "nombreCorto": "Jorge",
+        "nombre": "Saúl Mayorquín",
+        "nombreCorto": "Saúl",
         "photo": "",
         "citafavorita": "Una cita para mostrar en la pagina principal",
         "fb":""
@@ -33,12 +33,5 @@
         "photo": "",
         "citafavorita": "Una cita para mostrar en la pagina principal",
         "fb":""
-    },
-    {
-        "nombre": "Javier Gámez",
-        "nombreCorto": "Javier",
-        "photo": "",
-        "citafavorita": "Una cita para mostrar en la pagina principal",
-        "fb" : "https://www.facebook.com/Javier-G%C3%A1mez-SuazoPoes%C3%ADa-176919912367907/?fref=ts"
     }
 ]
